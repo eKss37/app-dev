@@ -1,7 +1,7 @@
 <h1><strong>Attack on titan</strong></h1>
 <h3><em>by Hajime Isayama</em></h3>
 
-<h4><strong>Known Character</strong></h4>
+<h4><strong>Known Characters</strong></h4>
 <ul>
   <li>Eren Yeager</li>
   <li>Mikasa Ackerman</li>
