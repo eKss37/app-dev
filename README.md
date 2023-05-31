@@ -3,7 +3,7 @@
 
 
 <img src="https://flxt.tmsimg.com/assets/p10701949_b_v9_ah.jpg" style="width:30%">
-
+___________________________________________________________
 <h2><strong>Known Characters</strong></h2>
 <ul>
   <li><h3>Eren Yeager</h3></li>
