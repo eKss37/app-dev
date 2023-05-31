@@ -1,3 +1,8 @@
+<img src="p10701949_b_v9_ah" alt="Italian Trullti" style="width:100%">
+
+
+
+
 <h1><strong>Attack on titan</strong></h1>
 <h3><em>by Hajime Isayama</em></h3>
 
