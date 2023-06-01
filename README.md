@@ -2,7 +2,7 @@
 <h3><em>by Hajime Isayama</em></h3>
 
 
-<img src="https://flxt.tmsimg.com/assets/p10701949_b_v9_ah.jpg" style="width:30%">
+<img src="https://flxt.tmsimg.com/assets/p10701949_b_v9_ah.jpg" style="width:100%">
 ___________________________________________________________
 <h2><strong>Known Characters</strong></h2>
 <ul>
